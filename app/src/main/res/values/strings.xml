@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Ride</string>
+    <string name ="ferrari" >IF U CAN\n DREAM IT, \nU CAN DO IT. </string>
+    <string name = "mercedes">Glow like\n headlights\n in the dark.</string>
+    <string name ="porsche">THE GRIND\n IS THE\n GLAMOUR</string>
+    <string name = "cars">DREAM IT.\n BUILD IT.\n OWN IT.\n</string>
+    <string name = "Verse">Verse</string>
+    <string name = "start">START🏎🏎️</string>
+    <string name = "Omen">Snap</string>
+</resources>
